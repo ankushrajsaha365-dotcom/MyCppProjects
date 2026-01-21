@@ -46,7 +46,7 @@ Each folder focuses on a specific C++ concept and contains **small, focused `.cp
 ```bash
 g++ filename.cpp -o output
 ./output
+```
 
 
-
-HAPPY CODING 💻
+### HAPPY CODING 💻
